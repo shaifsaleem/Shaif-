@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently working on autonomous driving vehicles with computer vision and object detection<br>
+I am currently working on autonomous driving vehicles with keen interest on computer vision and machine learning<br>
 
 
 # 💻 Tech Stack:
