@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently working on autonomous driving vehicles with keen interest on computer vision and machine learning<br>
+Masters' Student in Engineering sciences with keen interest on Machine learning and Computer Vision<br>
 
 
 # 💻 Tech Stack:
