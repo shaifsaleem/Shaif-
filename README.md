@@ -1,5 +1,5 @@
 # 💫 About Me:
-Masters' Student in Engineering sciences with keen interest on Machine learning and Computer Vision<br>
+Masters' Student in Engineering sciences with keen interest in Machine learning and Computer Vision<br>
 
 
 # 💻 Tech Stack:
